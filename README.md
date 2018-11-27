@@ -1,2 +1,2 @@
-# my_study
-neural trading system
+# my personal study for neural network.
+
